@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0; }
+
+h1 {
+  color: red;
+  font-size: 48px; }
+
+p {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-transform: scale(0.5);
+  -ms-transform: scale(0.5);
+  transform: scale(0.5); }
